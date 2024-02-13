@@ -1,0 +1,137 @@
+# main links links
+main:
+  - title: "About"
+    url: /about/
+    description: Information about ZA-Net
+  - title: "Repeaters"
+    url: /repeaters/
+    description: Our Repeaters
+  - title: "Posts"
+    url: /posts/tags/
+    description: TechTalks and Blog Posts
+  # - title: "Search"
+  #   url: /search/
+  #   description: "Search ZA-Net"
+
+repeaters:
+  - title: "ZA-Net Repeaters & Network"
+    children:
+      - title: "Our Repeaters"
+        url: /repeaters/
+      - title: "Sandton Amateur Radio Club (SARC)"
+        url: /repeaters/zs6stn/
+      - title: "Our Bubble Network"
+        url: /repeaters/bubble/
+      - title: "System Statuses"
+        url: "https://stats.uptimerobot.com/m70wYF5moL"
+        target: "_blank"
+
+zanet:
+  - title: "About ZA-Net"
+    children:
+      - title: "ZA-Net Repeater Network" 
+        url: "/about/zanet/"
+      # - title: "What is Amateur Radio (HAM)"
+      #   url: "/about/ham/"
+      # - title: "Radio Amateur Examination (RAE)"
+      #   url: "/about/rae/"
+      # - title: "Worked All ZS Award (WAZS)"
+      #   url: "/about/wazs"
+      # - title: ZA-Net YouTube Channel
+      #   url: "/about/youtube/"
+      # - title: "Weekly Bulletins"
+      #   url: "/about/bulletins/"
+      # - title: "ZA-Net Team Members"
+      #   url: "/about/members/"
+      # - title: "Club Constitution"
+      #   url: "/about/constitution"
+      - title: "Join the Network"  
+        url: "/about/join/"
+      - title: "Contact Details"
+        url: "/about/contact/"
+      # - title: "Terms and Privacy Policy"
+      #   url: "/about/terms/"
+  - title: "Useful Links"
+    children:
+      - title: "South African Radio League (SARL)"
+        url: "http://www.sarl.org.za/"
+        target: "_blank"
+      - title: "SARL Repeaters & Beacons"
+        url: "http://www.sarl.org.za/public/local/Unmanned.asp"
+        target: "_blank"
+      - title: "SARL SA-QSL Service"
+        url: "http://www.sarl.org.za/SAQSL/Default.asp"
+        target: "_blank"
+      - title: "RF Line-of-Sight Tool"
+        url: "https://www.scadacore.com/tools/rf-path/rf-line-of-sight/"
+        target: "_blank"
+      - title: "Radio Mobile Online"
+        url: "https://www.ve2dbe.com/english1.html"
+        target: "_blank"
+      - title: "ICASA Online"
+        url: "https://online.icasa.org.za/"
+        target: "_blank"
+      - title: "AMSAT SA"
+        url: "https://www.amsatsa.org.za/"
+        target: "_blank"
+      - title: "QRZ.COM"
+        url: "https://www.qrz.com/"
+        target: "_blank"
+      - title: "eHam.net"
+        url: "https://www.eham.net/site/index"
+        target: "_blank"     
+        
+posts:
+  - title: "Posts by Tag"
+    children:
+      - title: "Posts by Tags"
+        url: "/posts/tags/"
+      - title: "Posts by Year"
+        url: "/posts/year-archive/"
+      # - title: "Posts by Collection"
+      #   url: "/posts/collection-archive/"
+
+# sidebar navigation list sample
+sidebar-sample:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /child-page-a1/
+      - title: "Child Page A2"
+        url: /child-page-a2/
+      - title: "Child Page A3"
+        url: /child-page-a3/
+      - title: "Child Page A4"
+        url: /child-page-a4/
+  - title: "Parent Page B"
+    children:
+      - title: "Child Page B1"
+        url: /child-page-b1/
+      - title: "Child Page B2"
+        url: /child-page-b2/
+      - title: "Child Page B3"
+        url: /child-page-b3/
+      - title: "Child Page B4"
+        url: /child-page-b4/
+      - title: "Child Page B5"
+        url: /child-page-b5/
+  - title: "Parent Page C"
+    children:
+      - title: "Child Page C1"
+        url: /child-page-c1/
+      - title: "Child Page C2"
+        url: /child-page-c2/
+      - title: "Child Page C3"
+        url: /child-page-c3/
+      - title: "Child Page C4"
+        url: /child-page-c4/
+      - title: "Child Page C5"
+        url: /child-page-c5/
+  - title: "Parent Page D"
+    children:
+      - title: "Child Page D1"
+        url: /child-page-d1/
+      - title: "Child Page D2"
+        url: /child-page-d2/
+      - title: "Child Page D3 (External)"
+        url: https://your-domain.com
