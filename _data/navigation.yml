@@ -30,7 +30,8 @@ zanet:
   - title: "About ZA-Net"
     children:
       - title: "ZA-Net Repeater Network" 
-        url: "/about/zanet/"
+        url: "/about/"
+
       # - title: "What is Amateur Radio (HAM)"
       #   url: "/about/ham/"
       # - title: "Radio Amateur Examination (RAE)"
@@ -45,7 +46,7 @@ zanet:
       #   url: "/about/members/"
       # - title: "Club Constitution"
       #   url: "/about/constitution"
-      - title: "Join the Network"  
+      - title: "Join the ZA-Net Network"  
         url: "/about/join/"
       - title: "Contact Details"
         url: "/about/contact/"
@@ -53,6 +54,8 @@ zanet:
       #   url: "/about/terms/"
   - title: "Useful Links"
     children:
+      - title: "AllStarLink"
+        url: "/about/allstarlink/"
       - title: "South African Radio League (SARL)"
         url: "http://www.sarl.org.za/"
         target: "_blank"

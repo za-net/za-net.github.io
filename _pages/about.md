@@ -1,5 +1,5 @@
 ---
-title: About ZA-Net
+title: Welcome to ZA-Net
 layout: tag
 permalink: /about/
 taxonomy: markup
@@ -9,16 +9,27 @@ sidebar:
 #   - /about/zanet/
 classes: wide
 ---
+Welcome to ZA-Net, the platform connecting amateur radio enthusiasts across South Africa. Our mission is to foster communication, collaboration, and camaraderie among amateur radio clubs and operators nationwide.
 
-The Sandton Amateur Radio club services the greater northern suburbs of Johannesburg in furthering the interests of its members in all aspects of amateur radio and electronics as well as trains people interested in becoming a radio amateur.
+## About Us
 
-<h2 data-toc-skip>Activities</h2>
-We host Radio Amateur Exam courses and social events such as Fox Hunting and Antenna Building.
+ZA-Net, short for ZA Network, is a project initiated by passionate amateur radio operators dedicated to expanding the reach and accessibility of amateur radio communication. We aim to provide a reliable and efficient network for communication enthusiasts to connect, share knowledge, and engage in the exciting world of amateur radio.
 
-<h2 data-toc-skip>Repeaters</h2>
-We have several repeaters in Johannesburg, see more details about our [Repeaters](/repeaters/).
+## Our Vision
 
-<h2 data-toc-skip>About ZA-Net</h2>
-The club fosters friendships between radio amateurs and promotes the amateur radio hobby. The club also provides an excellent radio infrastructure by maintaining a high-quality repeater park at one of the highest sites in Johannesburg offering 2 meter, 70 cm and Dstar communication facilities that are available as backup communications in emergencies and during disasters.
+Our vision is to create a robust and interconnected network of repeaters, linking amateur radio clubs and operators from different regions of South Africa. By leveraging technology and collaboration, we strive to enhance the amateur radio experience, promote education, and contribute to emergency communication readiness.
 
-ZA-Net is a [Sandton Amateur Radio Club Initative](http://www.zs6stn.org.za/){:target="_blank"}.
+## Our Goals
+
+- **Connectivity**: Establishing seamless communication links between amateur radio clubs and operators across South Africa.
+- **Community**: Building a vibrant and supportive community of amateur radio enthusiasts who share knowledge, experiences, and resources.
+- **Education**: Providing resources and opportunities for learning and skill development in the field of amateur radio.
+- **Emergency Communication**: Contributing to emergency communication preparedness by providing a reliable communication platform during times of crisis or disaster.
+
+## Our Partners
+
+We are proud to announce the collaboration between the Sandton Amateur Radio Club and other local Amateur Radio Clubs as the inaugural partners of ZA-Net. Together, we are laying the foundation for a network that will benefit amateur radio operators and clubs throughout South Africa.
+
+## Get Involved
+
+Whether you're an experienced amateur radio operator or just starting your journey in the world of ham radio, there's a place for you in ZA-Net. Join us in building a stronger, more connected amateur radio community in South Africa.

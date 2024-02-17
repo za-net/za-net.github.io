@@ -1,5 +1,5 @@
 ---
-title: Join the Sandton Amateur Radio Club
+title: Join the ZA-Net Network
 layout: tag
 permalink: /about/join/
 taxonomy: markup
@@ -7,21 +7,21 @@ sidebar:
   nav: "zanet"
 classes: wide
 ---
+Joining ZA-Net is easy and opens up a world of opportunities for amateur radio enthusiasts in South Africa. Whether you're part of a club or an individual operator, there are several ways to become part of our growing network.
 
-Thank you for your interest in joining the Sandton Amateur Radio Club.
+## Ready-Made Equipment
 
- - Ordinary member = R220 per annum (Half year fee applicable from January = R110)
- - Family member (at the same address) R55 per annum (no half year discount).
+For those looking for a convenient option, ready-made equipment is available for purchase. Whether it's for your club repeater or a micro node for home use, pre-configured equipment provides a hassle-free way to get started with ZA-Net.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfo8oMabBlrftJw6l11brMEjqLcFKvfCpw68_K-NGtcoLolLQ/viewform" target="_blank">Complete our membership form.</a>
+## Build Your Own
 
+If you prefer a hands-on approach, you can build your own repeater or micro node. With the right hardware and guidance, constructing your own equipment can be a rewarding experience and offers flexibility in customization.
 
-| Contact Details|  |
-| ----------- | ----------- |
-| <i class="fa fa-globe"></i> WebSite |  [https://zs6stn.org.za/](https://zs6stn.org.za/) |
-| <i class="fab fa-facebook"></i> Facebook | [https://www.facebook.com/groups/ZS6STN/](https://www.facebook.com/groups/ZS6STN/){:target="_blank"} |
-| <i class="fab fa-youtube"></i> YouTube | [https://www.youtube.com/@zs6stn](https://www.youtube.com/@zs6stn){:target="_blank"} |
-| <i class="fas fa-envelope"></i> Radio Amateur Exam|<a href="javascript:location.href = 'mailto:' + ['rae','zs6stn.org.za'].join('@')" aria-label="email"> rae[at]zs6stn.org.za</a>|
-| <i class="fas fa-envelope"></i> Membership|<a href="javascript:location.href = 'mailto:' + ['join','zs6stn.org.za'].join('@')" aria-label="email">join[at]zs6stn.org.za</a>|
-| <i class="fas fa-envelope"></i> General|<a href="javascript:location.href = 'mailto:' + ['info','zs6stn.org.za'].join('@')" aria-label="email">info[at]zs6stn.org.za</a>|
+## Register Your Club
+
+Clubs are the backbone of the amateur radio community, and we welcome clubs to join ZA-Net. By registering your club with us, you gain access to a network of like-minded enthusiasts and the opportunity to share bulletins and schedules with a wider audience. We'll help you publish your club's bulletins and schedules to ensure they reach the ZA-Net community.
+
+## Get Started
+
+Ready to join ZA-Net? Whether you're purchasing equipment, building your own, or registering your club, we're here to help you get started. Visit our website at [www.za-net.org.za](http://www.za-net.org.za) to learn more and become part of the ZA-Net community today!
 
