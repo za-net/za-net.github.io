@@ -25,3 +25,4 @@ Clubs are the backbone of the amateur radio community, and we welcome clubs to j
 
 Ready to join ZA-Net? Whether you're purchasing equipment, building your own, or registering your club, we're here to help you get started. Visit our website at [www.za-net.org.za](http://www.za-net.org.za) to learn more and become part of the ZA-Net community today!
 
+[Join the ZA-Net Network](https://za-net.org.za/about/join/)
