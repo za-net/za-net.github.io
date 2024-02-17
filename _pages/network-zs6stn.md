@@ -1,10 +1,10 @@
 ---
 title: ZS6STN Repeater Site
 layout: tag
-permalink: /repeaters/zs6stn/
+permalink: /network/zs6stn/
 taxonomy: markup
 sidebar:
-  nav: "repeaters"
+  nav: "network"
 classes: wide
 ---
 

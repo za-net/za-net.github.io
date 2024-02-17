@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: /about/
     description: Information about ZA-Net
-  - title: "Repeaters"
-    url: /repeaters/
+  - title: "ZA-Net Network"
+    url: /network/
     description: Our Repeaters
   - title: "Posts"
     url: /posts/tags/
@@ -13,13 +13,13 @@ main:
   #   url: /search/
   #   description: "Search ZA-Net"
 
-repeaters:
+network:
   - title: "ZA-Net Repeaters & Network"
     children:
-      - title: "Our Linked Repeaters"
-        url: /repeaters/
-      - title: "Our Bubble Network"
-        url: /repeaters/bubble/
+      - title: "Linked Repeater Sites"
+        url: /network/
+      - title: "ZA-Net Bubble Network"
+        url: /network/bubble/
       - title: "System Statuses"
         url: "https://stats.uptimerobot.com/m70wYF5moL"
         target: "_blank"

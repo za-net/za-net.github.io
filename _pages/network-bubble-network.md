@@ -1,10 +1,10 @@
 ---
 title: ZA-Net Repeater Network
 layout: tag
-permalink: /repeaters/bubble/
+permalink: /network/bubble/
 taxonomy: markup
 sidebar:
-  nav: "repeaters"
+  nav: "network"
 classes: wide
 ---
 This is a live Bubble Network of ZA-Net
