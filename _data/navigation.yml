@@ -16,10 +16,8 @@ main:
 repeaters:
   - title: "ZA-Net Repeaters & Network"
     children:
-      - title: "Our Repeaters"
+      - title: "Our Linked Repeaters"
         url: /repeaters/
-      - title: "Sandton Amateur Radio Club (SARC)"
-        url: /repeaters/zs6stn/
       - title: "Our Bubble Network"
         url: /repeaters/bubble/
       - title: "System Statuses"
