@@ -54,6 +54,8 @@ zanet:
     children:
       - title: "AllStarLink"
         url: "/about/allstarlink/"
+      - title: "HamVoIP"
+        url: "/about/hamvoip/"
       - title: "South African Radio League (SARL)"
         url: "http://www.sarl.org.za/"
         target: "_blank"
