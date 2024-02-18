@@ -4,7 +4,7 @@ layout: tag
 permalink: /about/zanet/
 taxonomy: markup
 sidebar:
-  nav: "zanet"
+  nav: "zanet" 
 classes: wide
 ---
 
