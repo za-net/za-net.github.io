@@ -21,8 +21,5 @@ If you prefer a hands-on approach, you can build your own repeater or micro node
 
 Clubs are the backbone of the amateur radio community, and we welcome clubs to join ZA-Net. By registering your club with us, you gain access to a network of like-minded enthusiasts and the opportunity to share bulletins and schedules with a wider audience. We'll help you publish your club's bulletins and schedules to ensure they reach the ZA-Net community.
 
-## Get Started
 
-Ready to join ZA-Net? Whether you're purchasing equipment, building your own, or registering your club, we're here to help you get started. Visit our website at [www.za-net.org.za](http://www.za-net.org.za) to learn more and become part of the ZA-Net community today!
-
-[Join the ZA-Net Network](https://za-net.org.za/about/join/)
+To Join, drop us an email [Contact Details](/about/contact/)

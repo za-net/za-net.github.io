@@ -20,22 +20,41 @@ network:
         url: /network/
       - title: "ZA-Net Bubble Network"
         url: /network/bubble/
+      - title: "ZA-Net Etiquette"
+        url: "/network/etiquette"
       - title: "System Statuses"
         url: "https://stats.uptimerobot.com/m70wYF5moL"
         target: "_blank"
-
+  - title: "Scheduled Bulletins & Talks"
+    children:
+      - title: "ZA-Net Schedules"
+        url: "/schedule/"
+  - title: "Participating Clubs"
+    children:
+      - title: "Sandton Amateur Radio Club (SARC)"
+        url: "http://www.zs6stn.org.za/"
+        target: "_blank"
+      - title: "Antique Wireless Association"
+        url: "https://www.awasa.org.za/"
+        target: "_blank"
+      
 zanet:
   - title: "About ZA-Net"
     children:
       - title: "ZA-Net Repeater Network" 
         url: "/about/"
-
       - title: "Join the ZA-Net Network"  
         url: "/about/join/"
+      - title: "Connect my Repeater"  
+        url: "/about/join/repeater/"
+      - title: "Connect my Personal Node"  
+        url: "/about/join/personal/"
+        
       - title: "Contact Details"
         url: "/about/contact/"
+      - 
 
-  - title: "System Sites"
+  - title: "Supporting Infrastructure"
     children:
       - title: "AllStarLink"
         url: "/about/allstarlink/"
@@ -60,12 +79,15 @@ zanet:
         tooltip: "Testing"
         target: "_blank"
 
-
   - title: "Participating Clubs"
     children:
       - title: "Sandton Amateur Radio Club (SARC)"
         url: "http://www.zs6stn.org.za/"
         target: "_blank"
+      - title: "Antique Wireless Association"
+        url: "https://www.awasa.org.za/"
+        target: "_blank"
+      
 
         
      
