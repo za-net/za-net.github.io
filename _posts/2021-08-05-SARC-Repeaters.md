@@ -14,12 +14,12 @@ The AllStar Node is supporting both the AllStar and EchoLink network.
 
 Connectivity Details
 ---
+
 - 2 M Analog 145.700 MHz (Mobile Tx CTCSS 88.5)
 - EchoLink ZS6STN-R (Node No:901594)
 - AllStar Node 60721
 
-
-ZS6STN's High Site
+SARC's High Site
 ---
 
 The Sandton Amateur Radio Club's High Site is hosted at the Bryanston water tower.
