@@ -11,3 +11,5 @@ classes: wide
 Once you have your personal Micro Node and are ready to connect...
 
 Connect to Node 60721
+
+Please ensure you adhere to [ZA-Net Etiquette](/network/etiquette/)
