@@ -1,7 +1,7 @@
 ---
 title: Connecting your repeater to ZA-Net
 layout: tag
-permalink: /about/join/repeater/
+permalink: /about/join-repeater/
 taxonomy: markup
 sidebar:
   nav: "zanet"

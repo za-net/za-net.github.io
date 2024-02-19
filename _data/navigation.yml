@@ -46,10 +46,12 @@ zanet:
       - title: "Join the ZA-Net Network"  
         url: "/about/join/"
       - title: "Connect my Repeater"  
-        url: "/about/join/repeater/"
+        url: "/about/join-repeater/"
       - title: "Connect my Personal Node"  
-        url: "/about/join/personal/"
+        url: "/about/join-personal/"
         
+      - title: "ZA-Net Committee"
+        url: "/about/committee/"
       - title: "Contact Details"
         url: "/about/contact/"
       - 

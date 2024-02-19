@@ -12,4 +12,4 @@ redirect_from:
   - /committee/
 ---
 
-## Meet our Committee Members
+## Meet the ZA-Net Committee Members

@@ -1,7 +1,7 @@
 ---
 title: Connecting your Micro Node to ZA-Net
 layout: tag
-permalink: /about/join/personal/
+permalink: /about/join-personal/
 taxonomy: markup
 sidebar:
   nav: "zanet"

@@ -31,22 +31,6 @@ gallery:
     alt: "ZS6JGP"
 ---
 
-### Licenced Since
-2016
-
-### How you started
-Spur-of-the-moment signed up for the RAE
-
-### Most Memorable Contact
-Georgia USA, 13000+ km on a home made antenna
-
-### Best part of the Hobby
-The technical aspects, all of them
-
-### Favorite Modes
-FM, SSB, DMR
-
-### About Justin 
 Hello, fellow radio enthusiasts! I'm Justin, and I've been an active member of the Sandton Amateur Radio Club for the past seven years. During my journey with the club, I've had the honor of serving on the committee for over four years, taking on a pivotal role managing the Repeater Working Group.
 
 Our club, based in the vibrant city of Sandton, is all about the world of amateur radio. We're passionate about fostering connections, exploring cutting-edge technologies, and pushing the boundaries of communication. With our diverse range of repeaters, including VHF, UHF, DMR, D-Star, and EchoLink, we're at the forefront of amateur radio innovation.
