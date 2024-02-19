@@ -29,6 +29,4 @@ HamVOIP is a voice over IP (VoIP) solution designed specifically for amateur rad
 
 Whether you're a seasoned ham radio operator looking to expand your communication capabilities or a newcomer interested in exploring the world of amateur radio, HamVOIP provides a modern and reliable solution for connecting with fellow enthusiasts around the globe.
 
-To learn more about HamVOIP and how to get started, visit [HamVOIP website](https://www.hamvoip.org/).
-
 [https://hamvoip.org/](https://hamvoip.org/){:target="_blank"}

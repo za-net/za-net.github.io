@@ -58,10 +58,8 @@ zanet:
     children:
       - title: "AllStarLink"
         url: "/about/allstarlink/"
-        target: "_blank"
       - title: "HamVoIP"
         url: "/about/hamvoip/"
-        target: "_blank"
 
   - title: "Guides & HowTo's"
     children:
