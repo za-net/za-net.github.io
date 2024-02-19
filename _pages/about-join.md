@@ -21,6 +21,8 @@ To purchase a Micro Node, drop us an email [Contact Details](/about/contact/)
 
 If you prefer a hands-on approach, you can build your own repeater or micro node. With the right hardware and guidance, constructing your own equipment can be a rewarding experience and offers flexibility in customization.
 
+To build your own, checkout the links under the About > Guides and HowTo's section.
+
 ## Register Your Club
 
 Clubs are the backbone of the amateur radio community, and we welcome clubs to join ZA-Net. By registering your club with us, you gain access to a network of like-minded enthusiasts and the opportunity to share bulletins and schedules with a wider audience. We'll help you publish your club's bulletins and schedules to ensure they reach the ZA-Net community.
