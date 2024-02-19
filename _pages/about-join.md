@@ -21,7 +21,7 @@ To purchase a Micro Node, drop us an email [Contact Details](/about/contact/)
 
 If you prefer a hands-on approach, you can build your own repeater or micro node. With the right hardware and guidance, constructing your own equipment can be a rewarding experience and offers flexibility in customization.
 
-To build your own, checkout the links under the About > Guides and HowTo's section.
+To build your own, checkout the links under the **About > Guides and HowTo's** section.
 
 ## Register Your Club
 
