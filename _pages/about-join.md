@@ -13,6 +13,8 @@ Joining ZA-Net is easy and opens up a world of opportunities for amateur radio e
 
 For those looking for a convenient option, ready-made equipment is available for purchase. Whether it's for your club repeater or a micro node for home use, pre-configured equipment provides a hassle-free way to get started with ZA-Net.
 
+![MicroNode](/images/micronode-zs6hi.jgp.jpg)
+
 ## Build Your Own
 
 If you prefer a hands-on approach, you can build your own repeater or micro node. With the right hardware and guidance, constructing your own equipment can be a rewarding experience and offers flexibility in customization.
