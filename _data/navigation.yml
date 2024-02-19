@@ -70,7 +70,6 @@ zanet:
         target: "_blank"
       - title: "What Is An AllStar Link Node"
         url: "https://www.youtube.com/watch?app=desktop&v=qzmHeXg268M"
-        tooltip: "Testing"
         target: "_blank"
       - title: "Build your own AllStar node"
         url: "https://allstarsetup.com/allstar-mini-node-construction-details/"
@@ -80,10 +79,8 @@ zanet:
         target: "_blank"
       - title: "Setup RX and TX indicator LEDs"
         url: "http://kb9iqx.net/allstarlink/rx-tx-leds.html"
-        tooltip: "Testing"
         target: "_blank"
-
-        
+       
 
   - title: "Participating Clubs"
     children:
@@ -93,8 +90,6 @@ zanet:
       - title: "Antique Wireless Association"
         url: "https://www.awasa.org.za/"
         target: "_blank"
-      
-
         
      
 

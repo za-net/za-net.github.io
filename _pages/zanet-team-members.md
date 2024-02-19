@@ -1,7 +1,7 @@
 ---
 title: ZA-Net Team Members
 layout: collection
-permalink: /about/members/
+permalink: /about/comittee/
 collection: members
 entries_layout: grid
 classes: wide
