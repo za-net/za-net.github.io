@@ -12,3 +12,4 @@ redirect_from:
   - /committee/
 ---
 
+## Meet our Committee Members
