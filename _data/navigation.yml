@@ -68,6 +68,10 @@ zanet:
       - title: "Beginners Guide to AllStar"
         url: "https://wiki.allstarlink.org/wiki/Beginners_Guide"
         target: "_blank"
+      - title: "What Is An AllStar Link Node"
+        url: "https://www.youtube.com/watch?app=desktop&v=qzmHeXg268M"
+        tooltip: "Testing"
+        target: "_blank"
       - title: "Build your own AllStar node"
         url: "https://allstarsetup.com/allstar-mini-node-construction-details/"
         target: "_blank"
@@ -78,6 +82,8 @@ zanet:
         url: "http://kb9iqx.net/allstarlink/rx-tx-leds.html"
         tooltip: "Testing"
         target: "_blank"
+
+        
 
   - title: "Participating Clubs"
     children:

@@ -1,33 +1,33 @@
 ---
 title: "Justin ZS6JGP"
-permalink: /about/members/zs6jgp/
+permalink: /about/committee/zs6jgp/
 excerpt: "The Technical Guru"
 header:
-  teaser: assets/images/members/zs6jgp.jpg
+  teaser: assets/images/committee/zs6jgp.jpg
 sidebar:
   - title: "Position"
     text: "The Technical Guru"
   - title: " "
-    image: assets/images/members/zs6jgp.jpg
+    image: assets/images/committee/zs6jgp.jpg
     image_alt: "ZS6JGP"
 gallery:
-  - url: /assets/images/members/zs6jgp-1.jpg
-    image_path: assets/images/members/zs6jgp-1.jpg
+  - url: /assets/images/committee/zs6jgp-1.jpg
+    image_path: assets/images/committee/zs6jgp-1.jpg
     alt: "ZS6JGP"
-  - url: /assets/images/members/zs6jgp-2.png
-    image_path: assets/images/members/zs6jgp-2.png
+  - url: /assets/images/committee/zs6jgp-2.png
+    image_path: assets/images/committee/zs6jgp-2.png
     alt: "ZS6JGP"
-  - url: /assets/images/members/zs6jgp-3.png
-    image_path: assets/images/members/zs6jgp-3.png
+  - url: /assets/images/committee/zs6jgp-3.png
+    image_path: assets/images/committee/zs6jgp-3.png
     alt: "ZS6JGP"
-  - url: /assets/images/members/zs6jgp-4.jpg
-    image_path: assets/images/members/zs6jgp-4.jpg
+  - url: /assets/images/committee/zs6jgp-4.jpg
+    image_path: assets/images/committee/zs6jgp-4.jpg
     alt: "ZS6JGP"
-  - url: /assets/images/members/zs6jgp-5.jpg
-    image_path: assets/images/members/zs6jgp-5.jpg
+  - url: /assets/images/committee/zs6jgp-5.jpg
+    image_path: assets/images/committee/zs6jgp-5.jpg
     alt: "ZS6JGP"
-  - url: /assets/images/members/zs6jgp.jpg
-    image_path: assets/images/members/zs6jgp.jpg
+  - url: /assets/images/committee/zs6jgp.jpg
+    image_path: assets/images/committee/zs6jgp.jpg
     alt: "ZS6JGP"
 ---
 

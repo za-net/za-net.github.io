@@ -310,7 +310,7 @@ defaults:
   # _committee
   - scope:
       path: ""
-      type: members
+      type: committee
     values:
       layout: single
       author_profile: false
@@ -318,7 +318,7 @@ defaults:
       
 # Collections
 collections:
-  members:
+  committee:
     output: true
     permalink: /:collection/:path/
   bulletinreaders:

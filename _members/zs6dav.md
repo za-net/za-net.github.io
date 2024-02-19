@@ -1,28 +1,28 @@
 ---
 title: "Dave ZS6DAV"
-permalink: /about/members/zs6dav/
+permalink: /about/committee/zs6dav/
 excerpt: "Club Secretary, Bulletin Reader"
 header:
-  teaser: assets/images/members/zs6dav.jpg
+  teaser: assets/images/committee/zs6dav.jpg
 sidebar:
   - title: "Position"
     text: "Club Secretary, Bulletin Reader"
   - title: " "
-    image: assets/images/members/zs6dav.jpg
+    image: assets/images/committee/zs6dav.jpg
     image_alt: "ZS6DAV"
 
 gallery:
-  - url: /assets/images/members/zs6dav-1.jpg
-    image_path: assets/images/members/zs6dav-1.jpg
+  - url: /assets/images/committee/zs6dav-1.jpg
+    image_path: assets/images/committee/zs6dav-1.jpg
     alt: "ZS6DAV"
-  - url: /assets/images/members/zs6dav-2.jpg
-    image_path: assets/images/members/zs6dav-2.jpg
+  - url: /assets/images/committee/zs6dav-2.jpg
+    image_path: assets/images/committee/zs6dav-2.jpg
     alt: "ZS6DAV"
-  - url: /assets/images/members/zs6dav-3.jpg
-    image_path: assets/images/members/zs6dav-3.jpg
+  - url: /assets/images/committee/zs6dav-3.jpg
+    image_path: assets/images/committee/zs6dav-3.jpg
     alt: "ZS6DAV"
-  - url: /assets/images/members/zs6dav.jpg
-    image_path: assets/images/members/zs6dav.jpg
+  - url: /assets/images/committee/zs6dav.jpg
+    image_path: assets/images/committee/zs6dav.jpg
     alt: "ZS6DAV"
 ---
 
@@ -48,7 +48,7 @@ Without doubt I am an avid field station operator and QPR'er. I enjoy seeing how
 SSB, CW
 
 ### About Matthew 
-Meet Matthew, a dedicated member of the Sandton Amateur Radio Club, where he has actively served on the members for four years, contributing his expertise and passion to the club's activities. Matthew is not just a radio enthusiast; he's a multifaceted individual with a keen interest in technology and innovation. His love for 3D printing reflects his hands-on approach to creating and experimenting with various projects.
+Meet Matthew, a dedicated member of the Sandton Amateur Radio Club, where he has actively served on the committee for four years, contributing his expertise and passion to the club's activities. Matthew is not just a radio enthusiast; he's a multifaceted individual with a keen interest in technology and innovation. His love for 3D printing reflects his hands-on approach to creating and experimenting with various projects.
 
 When it comes to amateur radio, Matthew is not only fascinated by the intricacies of antennas and technology but also has a deep appreciation for the great outdoors. His love for field stations and participation in Summits on the Air (SOTA) showcases his adventurous spirit within the hobby. Matthew takes the challenge a step further by embracing QRP (low-power) operations, highlighting his commitment to pushing the boundaries of communication with minimal resources.
 
