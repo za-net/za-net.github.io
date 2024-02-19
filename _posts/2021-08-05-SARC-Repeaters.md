@@ -1,5 +1,5 @@
 ---
-title: Sandton Amateur Radio Club - VHF Repeater - ZA-Net Implementation
+title: SARC - VHF Repeater - ZA-Net Implementation
 layout: tag
 author: justin
 date: 2024-02-10
