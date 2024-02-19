@@ -1,5 +1,5 @@
 ---
-title: Committee Members
+title: ZA-Net Committee Members
 layout: collection
 permalink: /about/committee/
 collection: committee
@@ -12,4 +12,4 @@ redirect_from:
   - /committee/
 ---
 
-## Meet the ZA-Net Committee Members
+
