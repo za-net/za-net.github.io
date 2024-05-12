@@ -14,6 +14,5 @@ classes: wide
 | -------- | ------- | ------- |
 | Saturday 08h45 SAST | AWA | Weekly Bulletin for the Antique Wireless Association |
 | Sunday 08h45 SAST  | SARC    | Weekly Club Bulletin for Sandton Amateur Radio Club |
-| Tuesday 19h00 SAST | SARC     | Weekly Bulletin Rebroadcast forSandton Amateur Radio Club|
 | Last Wednesday of every month  |   SARC  | Sandton Amateur Radio Club's TechTalk |
 | Tuesday 19h30 SAST | KRTS     | Weekly Bulletin for Kempton Park Amateur Radio Club |
