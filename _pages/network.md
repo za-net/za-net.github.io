@@ -17,4 +17,5 @@ _Watch this space for more sites coming soon!_
 
 ||||
 | **Site Name** | **Node Number** | **Frequency** |
-|Sandton Amateur Radio Club | 60721 | 145.700 MHz (88.5 KHz - Mobile Tx)
+|Sandton Amateur Radio Club | 60721 | 145.700 MHz (88.5 KHz - Mobile Tx) |
+|Kempton Park Amateur Radio Club | 608720 | 145.6255  |
