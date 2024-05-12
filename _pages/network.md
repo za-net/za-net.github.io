@@ -9,9 +9,9 @@ sidebar:
 toc: true
 classes: wide
 ---
-Our first implementation at the Sandton Amateur Radio Club has gone live.
+Our first implementations at the Sandton Amateur Radio Club and Kempton Park Amateur Radio Club has gone live.
 
-_Watch this space for more sites coming soon!_
+Our next site to go live will be Mariepskop giving access to the Kruger National Park.
 
 ## Repeater Sites
 
