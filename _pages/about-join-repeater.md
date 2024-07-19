@@ -13,7 +13,7 @@ classes: wide
 
 Nodes connected to repeaters must be directly connected to the repeater.
 
-Setup your repeater to automatically connect to Node 61705
+Setup your repeater to automatically connect to Node 617050
 
 Please ensure you adhere to [ZA-Net Etiquette](/network/etiquette/)
 
