@@ -10,4 +10,4 @@ classes: wide
 This is a live Bubble Network of ZA-Net
 
 
-![Bubble Network](https://stats.allstarlink.org/getstatus.cgi?61705)
+![Bubble Network](https://stats.allstarlink.org/getstatus.cgi?617050)
