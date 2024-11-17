@@ -23,7 +23,7 @@ network:
       - title: "ZA-Net Etiquette"
         url: "/network/etiquette"
       - title: "System Statuses"
-        url: "https://stats.uptimerobot.com/m70wYF5moL"
+        url: "https://stats.uptimerobot.com/mvaWtOUIj6"
         target: "_blank"
   - title: "Scheduled Bulletins & Talks"
     children:
