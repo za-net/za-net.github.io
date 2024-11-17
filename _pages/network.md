@@ -18,5 +18,6 @@ Our next site to go live will be Mariepskop giving access to the Kruger National
 ||||
 | **Site Name** | **Node Number** | **Frequency** |
 | ZA-Net Master Node | 617050 | |
-|Sandton Amateur Radio Club | 60721 | 145.700 MHz (88.5 KHz - Mobile Tx) |
-|Kempton Park Amateur Radio Club | 608720 | 145.6255 MHz |
+|[Sandton Amateur Radio Club](https://www.zs6stn.org.za/){:target="_blank"} | 60721 | 145.700 MHz (88.5 KHz - Mobile Tx) |
+|[Kempton Park Amateur Radio Technical Society](https://zs6kts.co.za/){:target="_blank"} | 608720 | 145.6255 MHz |
+|[West Rand Amateur Radio Club](https://www.zs6wr.co.za/){:target="_blank"} | 63218 | 145. 6250 MHz (88.5 KHz - Mobile Tx) |
