@@ -13,7 +13,7 @@ classes: wide
 | When    | Club | Details |
 | -------- | ------- | ------- |
 | Last Wednesday of every month  |   SARC  | Sandton Amateur Radio Club's TechTalk |
-| Tuesday 19h30 SAST | KRTS     | Weekly Bulletin for the Kempton Park Amateur Radio Club |
+| Tuesday 19h30 SAST | KRTS     | Weekly Bulletin for the Kempton Park Amateur Radio Technical Society |
 | Saturday 08h45 SAST | AWA | Weekly Bulletin for the Antique Wireless Association |
 | Sunday 08h45 SAST  | SARC    | Weekly Club Bulletin for the Sandton Amateur Radio Club |
 | Sunday 11h30 SAST | WR | Weekly Club Bulletin for West Rand Amateur Radio Club |
