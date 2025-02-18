@@ -37,6 +37,12 @@ network:
       - title: "Antique Wireless Association"
         url: "https://www.awasa.org.za/"
         target: "_blank"
+      - title: "West Rand Amateur Radio Club"
+        url: "https://www.zs6wr.co.za/"
+        target: "_blank"
+      - title: "Kempton Park Amateur Radio Technical Society"
+        url: "https://zs6kts.co.za/"
+        target: "_blank"
       
 zanet:
   - title: "About ZA-Net"
@@ -90,7 +96,12 @@ zanet:
       - title: "Antique Wireless Association"
         url: "https://www.awasa.org.za/"
         target: "_blank"
-        
+      - title: "West Rand Amateur Radio Club"
+        url: "https://www.zs6wr.co.za/"
+        target: "_blank"
+      - title: "Kempton Park Amateur Radio Technical Society"
+        url: "https://zs6kts.co.za/"
+        target: "_blank"     
      
 
 posts:
