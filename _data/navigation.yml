@@ -20,6 +20,8 @@ network:
         url: /network/
       - title: "ZA-Net Bubble Network"
         url: /network/bubble/
+      - title: "ZA-Net Map of Repeaters"
+        url: /network/map/
       - title: "ZA-Net Etiquette"
         url: "/network/etiquette"
       - title: "System Statuses"
