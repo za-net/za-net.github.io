@@ -11,6 +11,8 @@ classes: wide
 ---
 Our first implementations at the Sandton Amateur Radio Club and Kempton Park Amateur Radio Club has gone live.
 
+The second implementation welcomed West Rand Amateur Radio Club to ZA-Net.
+
 Our next site to go live will be Mariepskop giving access to the Kruger National Park.
 
 ## Repeater Sites
