@@ -19,9 +19,9 @@ classes: wide
 | Panbult | via ZS6WDL-R | 438.725 (-7.6) 88.5KHz | |
 | Memel | via ZS6WDL-R | 435.500 88.5KhZ | |
 | Vryheid | via ZS6WDL-R | 145.775 (-0.6) 88.5KHz | |
-| Pongola | via ZS6WDL-R | 435.525 88.5KHz | |
-| New Castle | via ZS6WDL-R | 145.700 (-0.6) 88.5KHz | |
-| Richardsbay  | via ZS6WDL-R | | |
+| Pongola | via ZS6WDL-R | - | |
+| New Castle | via ZS6WDL-R | 435.525 88.5KHz | |
+| Richardsbay  | 145.700 (-0.6) 88.5KHz | | |
 | Ermelo  | via ZS6WDL-R | 145.750 (-0.6) 88.5KHz | |
 | Middelburg  | via ZS6WDL-R | 145.7375 (-0.6) 88.5KHz | |
 | Dundee | via ZS6WDL-R | 435.550 88.5KHz | |
