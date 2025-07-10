@@ -21,10 +21,10 @@ classes: wide
 | Vryheid | via ZS6WDL-R | 145.775 (-0.6) 88.5KHz | |
 | Pongola | via ZS6WDL-R | - | |
 | New Castle | via ZS6WDL-R | 435.525 88.5KHz | |
-| Richardsbay  | 145.700 (-0.6) 88.5KHz | | |
+| Richardsbay  | via ZS6WDL-R | 145.700 (-0.6) 88.5KHz | | 
 | Ermelo  | via ZS6WDL-R | 145.750 (-0.6) 88.5KHz | |
 | Middelburg  | via ZS6WDL-R | 145.7375 (-0.6) 88.5KHz | |
-| Dundee | via ZS6WDL-R | 435.550 88.5KHz | |
+| Dundee | via ZS6WDL-R | 435.550 88.5KHz | | 
 | Steenkampsberg(De Berg)| via Middleburg | 439.025 (-7.6) 88.5KHz | |
 | Estcourt  | via Pietermaritzburg | | |
 | Pietermaritzburg  | via ZS6WDL-R | |  |
