@@ -24,7 +24,7 @@ Our next site to go live will be Mariepskop giving access to the Kruger National
 |[Kempton Park Amateur Radio Technical Society](https://zs6kts.co.za/){:target="_blank"} | 608720 | 145.6625 MHz | |
 |[West Rand Amateur Radio Club](https://www.zs6wr.co.za/){:target="_blank"} | 63218 | 145.6250 MHz (88.5 KHz - Mobile Tx) | Disconnected Mon - Fri 4.30pm to 6pm |
 |[Lowveld Amateur Radio Club](https://www.facebook.com/ZS6LOW/){:target="_blank"} | 63218 |  145.525 MHz (No Tone) | |
-| Mpisi | ZS6WDL-R | | |
+| [Mpisi Amateur Radio Club](https://www.facebook.com/groups/848835003502702/) | ZS6WDL-R | | |
 | Panbult | via ZS6WDL-R | | |
 | Memel | via ZS6WDL-R | | |
 | Vryheid | via ZS6WDL-R | | |
