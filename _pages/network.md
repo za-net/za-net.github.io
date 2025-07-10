@@ -9,8 +9,6 @@ sidebar:
 toc: true
 classes: wide
 ---
-
-||||
 | **Site Name** | **Node / Link** | **Frequency** | **Notes** |
 | ZA-Net Master Node | 617050 | | |
 |[Sandton Amateur Radio Club](https://www.zs6stn.org.za/){:target="_blank"} | 60721 | 145.700 MHz (88.5 KHz - Mobile Tx) | |
