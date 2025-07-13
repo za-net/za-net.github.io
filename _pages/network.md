@@ -13,9 +13,9 @@ classes: wide
 | ZA-Net Master Node | 617050 | | |
 |[Sandton Amateur Radio Club](https://www.zs6stn.org.za/){:target="_blank"} | 60721 | 145.700 MHz 88.5 KHz | |
 |[Kempton Park Amateur Radio Technical Society](https://zs6kts.co.za/){:target="_blank"} | 608720 | 145.6625 MHz | |
-|[West Rand Amateur Radio Club](https://www.zs6wr.co.za/){:target="_blank"} | 63218 | 145.6250 MHz 88.5 KHz | Disconnected:<br/> Mon - Fri 4.30pm to 6pm |
+|[West Rand Amateur Radio Club](https://www.zs6wr.co.za/){:target="_blank"} | 63218 | 145.6250 MHz 88.5 KHz | Disconnected:<br/> Mon - Fri 16h30 to 18h00 |
 |[Lowveld Amateur Radio Club](https://www.facebook.com/ZS6LOW/){:target="_blank"} | 63218 |  145.675 MHz (-0.6) 88.5 KHz | |
-| [Mpisi Amateur Radio Club](https://www.facebook.com/groups/848835003502702/){:target="_blank"} | ZS6WDL-R | 438.750 (-7.6) 88.5KHz | |
+| [Mpisi Amateur Radio Club](https://www.facebook.com/groups/848835003502702/){:target="_blank"} | ZS6WDL-R | 438.750 (-7.6) 88.5KHz | Disconnected Sundays:<br/> 07h50 to 11h30 <br/> 14h45 to 15h45 |
 | Panbult | via ZS6WDL-R | 438.725 MHz (-7.6) 88.5KHz | |
 | Memel | via ZS6WDL-R | 435.500 MHz 88.5KHz  | |
 | Vryheid | via ZS6WDL-R | 145.775 MHz (-0.6) 88.5KHz  | |
